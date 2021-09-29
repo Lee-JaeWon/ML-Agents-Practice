@@ -11,5 +11,5 @@ Reference : [ML-Agents Docs (Making a New Learning Environment)](https://github.
 <p align="center"><img src="/Rollerball.png" width = "400" ></p>
 
 ## Extra Contents
-[How to apply the ML-Agents package _ Blog](https://lee-jaewon.github.io/unity_ml-agents/setting(1)/)  
+[[Blog] How to apply the ML-Agents package](https://lee-jaewon.github.io/unity_ml-agents/setting(1)/)  
 
